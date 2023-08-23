@@ -8,6 +8,6 @@
     <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
   <Libraries>
-    <LibraryObject Name="Library" Source="Libraries.Library.lby" Memory="UserROM" Language="IEC" Debugging="true" />
+    <LibraryObject Name="Operations" Source="Libraries.Operations.lby" Memory="UserROM" Language="IEC" Debugging="true" />
   </Libraries>
 </SwConfiguration>
