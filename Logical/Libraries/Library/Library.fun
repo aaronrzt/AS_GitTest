@@ -1,1 +1,3 @@
 
+FUNCTION Operaciones : USINT
+END_FUNCTION
