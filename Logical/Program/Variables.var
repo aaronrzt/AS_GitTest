@@ -2,4 +2,5 @@ VAR
 	Numero_A : USINT := 20;
 	Numero_B : USINT := 2;
 	Resultados : ResultsType;
+	Contador1 : USINT := 0;
 END_VAR
