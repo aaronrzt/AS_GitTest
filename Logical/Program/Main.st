@@ -10,6 +10,7 @@ END_PROGRAM
 PROGRAM _CYCLIC
 
 	Operaciones( a := Numero_A,b := Numero_B,pResults := ADR(Resultados));
+	counter := counter + 1;
 	
 END_PROGRAM
 
