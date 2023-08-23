@@ -1,8 +1,5 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	Numero_A : USINT := 20;
+	Numero_B : USINT := 2;
+	Resultados : ResultsType;
 END_VAR
